@@ -1,0 +1,17 @@
+id,topic_type,encoding,encoded_message_definition,type_description_hash
+1,sensor_msgs/msg/Image,ros2msg,"std_msgs/Header header
+uint32 height
+uint32 width
+string encoding
+uint8 is_bigendian
+uint32 step
+uint8[] data
+================================================================================
+MSG: std_msgs/Header
+builtin_interfaces/Time stamp
+string frame_id
+================================================================================
+MSG: builtin_interfaces/Time
+int32 sec
+uint32 nanosec
+",RIHS01_d31d41a9a4c4bc8eae9be757b0beed306564f7526c88ea6a4588fb9582527d47

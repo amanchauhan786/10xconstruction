@@ -1,0 +1,8 @@
+timestamp,data_length,topic_name,topic_type
+1702944981696402893,614472,/depth,sensor_msgs/msg/Image
+1702944983557733535,614472,/depth,sensor_msgs/msg/Image
+1702944985025921707,614472,/depth,sensor_msgs/msg/Image
+1702944985759606745,614472,/depth,sensor_msgs/msg/Image
+1702944986493891910,614472,/depth,sensor_msgs/msg/Image
+1702944989365535811,614472,/depth,sensor_msgs/msg/Image
+1702944992368860933,614472,/depth,sensor_msgs/msg/Image

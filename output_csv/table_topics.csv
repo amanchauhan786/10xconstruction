@@ -1,0 +1,2 @@
+id,name,type,serialization_format,offered_qos_profiles,type_description_hash
+1,/depth,sensor_msgs/msg/Image,cdr,,RIHS01_d31d41a9a4c4bc8eae9be757b0beed306564f7526c88ea6a4588fb9582527d47
